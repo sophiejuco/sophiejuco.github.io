@@ -1,13 +1,13 @@
 # Data Science Consultant
 
 ## Experience
-**Data Science Consultant** | Kalypso, A Rockwell Automation Business (Sep 2025-Present)
+**Data Science Consultant,** Kalypso, A Rockwell Automation Business (Sep 2025-Present)
 
-**Research Assistant** | New York University (Sep 2024-Aug 2025)
+**Research Assistant,** New York University (Sep 2024-Aug 2025)
 
-**Data Science Consultant Intern** | Kalypso, A Rockwell Automation Business (Jun-Aug 2024)
+**Data Science Consultant Intern,** Kalypso, A Rockwell Automation Business (Jun-Aug 2024)
 
-**Data Analytics Consultant** | Passaic Metal and Building Supplies Company (2021-2023)
+**Data Analytics Consultant,** Passaic Metal and Building Supplies Company (2021-2023)
 
 ## Education
 **New York University, Graduate School of Arts & Science,** New York, NY (_May 2025_)  
